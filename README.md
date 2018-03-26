@@ -238,3 +238,5 @@ to run your test suite.
 - [Customizing the Build](http://docs.travis-ci.com/user/customizing-the-build/), by Travis CI
 - [CI-By-Example](https://github.com/buildfirst/ci-by-example), by bevacqua
 - [Travis-CI: What, Why, How](http://code.tutsplus.com/tutorials/travis-ci-what-why-how--net-34771), by Sayanee Basu
+
+https://img.shields.io/travis/GloriaShen/travis-ci-demo.svg
